@@ -14,6 +14,7 @@ Cost-Effective: Utilizes existing satellite data to achieve high-resolution imag
 
 # How It's Made
 Coding Languages/libraries: Python, GDAL, Matplotlib, NumPy, sklearn
+
 Data Supported: Landsat 9 Imagery, Bands 2 (blue),3 (green), 4(red) and 8(panchromatic)
 
 Steps Taken:
