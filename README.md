@@ -1,4 +1,4 @@
-#Pansharpening-Brovey-PCA
+# Pansharpening-Brovey-PCA
 This is a Remote Sensing Project that pansharpens satellite image subsets using two pansharpening techniques: Brovey Transform and Principle Component Analysis (PCA).
 
 # Definition & Importance
@@ -23,7 +23,7 @@ Steps Taken:
 5) Apply Brovey Transform on the 500 x 500 pixel subset
 6) Apply PCA on the 500 x 500 pixel subset
 
-#Known Issues
+# Known Issues
 If this code is run in Google Colab it is possible that the the MTL file will disapear 
 You may see bluish streaks due to the conversion of Digital Numbers to TOA
 
