@@ -21,8 +21,9 @@ Steps Taken:
     Purpose: To correct atmospheric effects and calibrate the image.
 2) Resampling from 30m to 15m
     Method: Bilinear interpolation, using the weighted average of the 4 nearest pixels.
+   
     Outcome: Improved spatial resolution for better analysis.
-3) Create a 500 x 500 pixel subset
+4) Create a 500 x 500 pixel subset
    Outcome: Optimization of Brovey and PCA (working on a smaller data set)
 5) Apply Brovey Transform on the 500 x 500 pixel subset
 6) Apply PCA on the 500 x 500 pixel subset
