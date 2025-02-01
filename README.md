@@ -3,9 +3,13 @@ This is a Remote Sensing Project that pansharpens satellite image subsets using 
 
 # Definition & Importance
 Pansharpening combines high-resolution panchromatic (PAN) images with lower-resolution multispectral (MS) images to produce a single high-resolution color image.
+
 Why is it Important?
+
 Improved Spatial Resolution: Enhances image clarity for better analysis and interpretation.
+
 Enhanced Decision-Making: Supports environmental monitoring, land classification, and urban planning.
+
 Cost-Effective: Utilizes existing satellite data to achieve high-resolution imagery.
 
 # How It's Made
