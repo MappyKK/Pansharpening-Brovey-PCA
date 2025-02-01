@@ -18,15 +18,18 @@ Data Supported: Landsat 9 Imagery, Bands 2 (blue),3 (green), 4(red) and 8(panchr
 
 Steps Taken:
 1) Conversion to TOA Reflectance
+   
     Purpose: To correct atmospheric effects and calibrate the image.
-2) Resampling from 30m to 15m
+3) Resampling from 30m to 15m
+   
     Method: Bilinear interpolation, using the weighted average of the 4 nearest pixels.
    
     Outcome: Improved spatial resolution for better analysis.
-4) Create a 500 x 500 pixel subset
+5) Create a 500 x 500 pixel subset
+   
    Outcome: Optimization of Brovey and PCA (working on a smaller data set)
-5) Apply Brovey Transform on the 500 x 500 pixel subset
-6) Apply PCA on the 500 x 500 pixel subset
+7) Apply Brovey Transform on the 500 x 500 pixel subset
+8) Apply PCA on the 500 x 500 pixel subset
 
 # Known Issues
 If this code is run in Google Colab it is possible that the the MTL file will disapear 
