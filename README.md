@@ -33,7 +33,7 @@ Steps Taken:
 8) Apply PCA on the 500 x 500 pixel subset
 
 # Known Issues
-If this code is run in Google Colab it is possible that the the MTL file will disapear 
+If this code is run in Google Colab it is possible that the MTL file will disapear 
 
 You may see bluish streaks due to the conversion of Digital Numbers to TOA
 
