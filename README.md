@@ -37,6 +37,8 @@ If this code is run in Google Colab it is possible that the MTL file will disape
 
 You may see bluish streaks due to the conversion of Digital Numbers to TOA
 
+# Visualization
+
 <img width="750" height="361" alt="image" src="https://github.com/user-attachments/assets/b4aeef8b-0f89-4ae9-8e3d-ea61ed6fbd15" />
 
 <img width="758" height="358" alt="image" src="https://github.com/user-attachments/assets/1dd9c64e-6302-4024-8a2e-9876575c0bad" />
